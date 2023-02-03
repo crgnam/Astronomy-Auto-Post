@@ -1,0 +1,8 @@
+This was my first time trying to image and process a comet. I definitely learned a lot and am reasonably happy with the result! This is a composite of 2 images: One where I aligned and stacked on the comet, and one where I aligned and stacked on the stars. I found that I got better results by stacking the comet in batches of every 5th image as it allowed me to better reject the stars since they weren't overlapping.
+
+Taken with a ZWO ASI183MC Pro on a William Optics Redcat 51, using the Sky-Watcher Star Adventurer GTi for tracking and ZWO 30mm Mini Guider Scope + ZWO ASI120MM Mini for auto-guiding.
+
+Total Integration time was 2h 49", in a Bortle 3.00
+
+See my Astrobin account for full image, and additional aquisition details!
+
